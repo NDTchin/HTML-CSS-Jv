@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+html{
+	/* Smooth Scrolling */
+	scroll-behavior: smooth;
+
+	/* === Variables For Storing Colors === */
+	--primary-clr: #5c6fd5;
+	--bg-light-clr: #f4f7fe;
+	--dark-heading-clr: #15181d;
+	--dark-sub-heading-clr: #181c1f;
+	--dark-text-clr: #454545;
+	--light-heading-clr: #fefefe;
+	--light-sub-heading-clr: #e2e9fa;
+	--light-text-clr: #ccd1dd;
+}
